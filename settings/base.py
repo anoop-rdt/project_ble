@@ -45,6 +45,8 @@ INSTALLED_APPS = (
 
     'apps.account',
     'apps.profiles',
+    'apps.ble_devices',
+
 )
 
 MIDDLEWARE_CLASSES = (
